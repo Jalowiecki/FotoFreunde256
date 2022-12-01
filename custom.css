@@ -39,10 +39,11 @@ h1, h2, h3, h4, h5, h6 {
 .feature,
 .page-intro,
 .article-intro,
-.footer-blurb,
-.small-print {
-	text-align: left;
-	}
+.footer-blurb
+
+.small-print 
+text-align: left;
+	
 
 	h2,h3{
 		color: #000080;
@@ -60,3 +61,6 @@ h1, h2, h3, h4, h5, h6 {
 		font-weight: bold;
 		color: red;
 	}
+.navbar {
+	background-color: aqua;
+}
