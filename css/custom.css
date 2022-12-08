@@ -29,6 +29,10 @@ h1, h2, h3, h4, h5, h6 {
     
 .footer-blurb-item {
     padding: 30px;
+	border-color: #000080;
+	border-width: 0.1px;
+	border-style: solid;
+	margin: 0.01px;
     }
  
 .small-print {
